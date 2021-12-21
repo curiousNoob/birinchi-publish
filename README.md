@@ -1,0 +1,3 @@
+## Birinchi
+
+this is readme

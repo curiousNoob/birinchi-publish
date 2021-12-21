@@ -1,6 +1,6 @@
 {
   "name": "birinchi-publish",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "this is my firsst pub package",
   "main": "index.js",
   "scripts": {
